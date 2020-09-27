@@ -157,7 +157,7 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.YnVzaW5lc3M6bXl1bmk2MjA" projecturn="a.YnVzaW5lc3M6bXl1bmk2MjAjMjAyMDA5MTQzMzI2NDA3MDY" f3durn="urn:adsk.wipprod:dm.lineage:VOEC2GXZQGSNXheeIxZnNA" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="04a7ce9e-f7a1-4608-a964-23207241fdfc" lastsyncedrevisionid="04a7ce9e-f7a1-4608-a964-23207241fdfc" lastboardhashguid="65bf21e8-7f7b-dfc2-9ce1-28a5edde8895" lastpushedtime="2020-09-22T18:48:02Z" linktopcb3d="true"/>
+<fusionsync huburn="a.YnVzaW5lc3M6bXl1bmk2MjA" projecturn="a.YnVzaW5lc3M6bXl1bmk2MjAjMjAyMDA5MTQzMzI2NDA3MDY" f3durn="urn:adsk.wipprod:dm.lineage:VOEC2GXZQGSNXheeIxZnNA" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="cc5a12be-f862-497b-a3bc-38c7ce1e8316" lastsyncedrevisionid="cc5a12be-f862-497b-a3bc-38c7ce1e8316" lastboardhashguid="bc9404d5-8044-fe53-0f7a-2ef003d9a942" lastpushedtime="2020-09-22T18:41:37Z" linktopcb3d="true"/>
 <plain>
 <wire x1="0" y1="0" x2="40" y2="0" width="0" layer="20"/>
 <wire x1="40" y1="0" x2="40" y2="30" width="0" layer="20"/>
@@ -1869,41 +1869,41 @@ design rules under a new name.</description>
 <attribute name="TYPE" value="" x="26.67" y="33.02" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="24.765" y="13.97" size="1.27" layer="27" rot="R90" align="top-center"/>
 </element>
-<element name="J1" library="Wurth_Connectors_WR-TBL Rising Cage Clamp" library_urn="urn:adsk.eagle:library:16280519" package="691213510002" package3d_urn="urn:adsk.eagle:package:16248575/2" value="" x="3" y="15" smashed="yes" rot="R270">
-<attribute name="IR-UL" value="14A" x="-17.32" y="-21.83" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="IR-VDE" value="14A" x="-17.32" y="-21.83" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="PART-NUMBER" value=" 691213510002 " x="-17.32" y="-21.83" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="PINS" value=" 2 " x="-17.32" y="-21.83" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="PITCH" value="5.08mm" x="-17.32" y="-21.83" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="TYPE" value="Horizontal" x="-17.32" y="-21.83" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="-3" y="18.5" size="1.27" layer="27" rot="R270"/>
-<attribute name="WIRE" value="14 to 30 (AWG) 2.08 to 0.0509 (mm²)" x="-17.32" y="-21.83" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="WORKING-VOLTAGE-UL" value="300V (AC)" x="-17.32" y="-21.83" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="WORKING-VOLTAGE-VDE" value="250V (AC)" x="-17.32" y="-21.83" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="J1" library="Wurth_Connectors_WR-TBL Rising Cage Clamp" library_urn="urn:adsk.eagle:library:16280519" package="691213510002" package3d_urn="urn:adsk.eagle:package:16248575/2" value="" x="3" y="15" smashed="yes" rot="R90">
+<attribute name="IR-UL" value="14A" x="23.32" y="51.83" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="IR-VDE" value="14A" x="23.32" y="51.83" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PART-NUMBER" value=" 691213510002 " x="23.32" y="51.83" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PINS" value=" 2 " x="23.32" y="51.83" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PITCH" value="5.08mm" x="23.32" y="51.83" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="TYPE" value="Horizontal" x="23.32" y="51.83" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="VALUE" x="9" y="11.5" size="1.27" layer="27" rot="R90"/>
+<attribute name="WIRE" value="14 to 30 (AWG) 2.08 to 0.0509 (mm²)" x="23.32" y="51.83" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="WORKING-VOLTAGE-UL" value="300V (AC)" x="23.32" y="51.83" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="WORKING-VOLTAGE-VDE" value="250V (AC)" x="23.32" y="51.83" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="J2" library="Wurth_Connectors_WR-TBL Rising Cage Clamp" library_urn="urn:adsk.eagle:library:16280519" package="691213510002" package3d_urn="urn:adsk.eagle:package:16248575/2" value="" x="37" y="15" smashed="yes" rot="R90">
-<attribute name="IR-UL" value="14A" x="68.75" y="34.05" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="IR-VDE" value="14A" x="68.75" y="34.05" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PART-NUMBER" value=" 691213510002 " x="68.75" y="34.05" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PINS" value=" 2 " x="68.75" y="34.05" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PITCH" value="5.08mm" x="68.75" y="34.05" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="TYPE" value="Horizontal" x="68.75" y="34.05" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="VALUE" x="43" y="11.5" size="1.27" layer="27" rot="R90"/>
-<attribute name="WIRE" value="14 to 30 (AWG) 2.08 to 0.0509 (mm²)" x="68.75" y="34.05" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="WORKING-VOLTAGE-UL" value="300V (AC)" x="68.75" y="34.05" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="WORKING-VOLTAGE-VDE" value="250V (AC)" x="68.75" y="34.05" size="1.778" layer="27" rot="R90" display="off"/>
+<element name="J2" library="Wurth_Connectors_WR-TBL Rising Cage Clamp" library_urn="urn:adsk.eagle:library:16280519" package="691213510002" package3d_urn="urn:adsk.eagle:package:16248575/2" value="" x="37" y="15" smashed="yes" rot="R270">
+<attribute name="IR-UL" value="14A" x="5.25" y="-4.05" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="IR-VDE" value="14A" x="5.25" y="-4.05" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PART-NUMBER" value=" 691213510002 " x="5.25" y="-4.05" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PINS" value=" 2 " x="5.25" y="-4.05" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PITCH" value="5.08mm" x="5.25" y="-4.05" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="TYPE" value="Horizontal" x="5.25" y="-4.05" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VALUE" x="31" y="18.5" size="1.27" layer="27" rot="R270"/>
+<attribute name="WIRE" value="14 to 30 (AWG) 2.08 to 0.0509 (mm²)" x="5.25" y="-4.05" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="WORKING-VOLTAGE-UL" value="300V (AC)" x="5.25" y="-4.05" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="WORKING-VOLTAGE-VDE" value="250V (AC)" x="5.25" y="-4.05" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="J3" library="Wurth_Connectors_WR-TBL Rising Cage Clamp" library_urn="urn:adsk.eagle:library:16280519" package="691213510003" package3d_urn="urn:adsk.eagle:package:16248576/2" value="" x="20" y="27" smashed="yes" rot="R180">
-<attribute name="IR-UL" value="14A" x="-1.59" y="47.32" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="IR-VDE" value="14A" x="-1.59" y="47.32" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="PART-NUMBER" value=" 691213510003 " x="-1.59" y="47.32" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="PINS" value=" 3 " x="-1.59" y="47.32" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="PITCH" value="5.08mm" x="-1.59" y="47.32" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="TYPE" value="Horizontal" x="-1.59" y="47.32" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="23.5" y="33" size="1.27" layer="27" rot="R180"/>
-<attribute name="WIRE" value="14 to 30 (AWG) 2.08 to 0.0509 (mm²)" x="-1.59" y="47.32" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="WORKING-VOLTAGE-UL" value="300V (AC)" x="-1.59" y="47.32" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="WORKING-VOLTAGE-VDE" value="250V (AC)" x="-1.59" y="47.32" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="J3" library="Wurth_Connectors_WR-TBL Rising Cage Clamp" library_urn="urn:adsk.eagle:library:16280519" package="691213510003" package3d_urn="urn:adsk.eagle:package:16248576/2" value="" x="20" y="27" smashed="yes">
+<attribute name="IR-UL" value="14A" x="41.59" y="6.68" size="1.778" layer="27" display="off"/>
+<attribute name="IR-VDE" value="14A" x="41.59" y="6.68" size="1.778" layer="27" display="off"/>
+<attribute name="PART-NUMBER" value=" 691213510003 " x="41.59" y="6.68" size="1.778" layer="27" display="off"/>
+<attribute name="PINS" value=" 3 " x="41.59" y="6.68" size="1.778" layer="27" display="off"/>
+<attribute name="PITCH" value="5.08mm" x="41.59" y="6.68" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="Horizontal" x="41.59" y="6.68" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="16.5" y="21" size="1.27" layer="27"/>
+<attribute name="WIRE" value="14 to 30 (AWG) 2.08 to 0.0509 (mm²)" x="41.59" y="6.68" size="1.778" layer="27" display="off"/>
+<attribute name="WORKING-VOLTAGE-UL" value="300V (AC)" x="41.59" y="6.68" size="1.778" layer="27" display="off"/>
+<attribute name="WORKING-VOLTAGE-VDE" value="250V (AC)" x="41.59" y="6.68" size="1.778" layer="27" display="off"/>
 </element>
 <element name="Q1" library="transistor-npn" library_urn="urn:adsk.eagle:library:398" package="TO92" package3d_urn="urn:adsk.eagle:package:28523/2" value="BC337-25" x="27.94" y="7.62" smashed="yes" rot="R90">
 <attribute name="NAME" x="27.305" y="10.795" size="1.27" layer="25" ratio="10" rot="R90"/>
@@ -1926,25 +1926,28 @@ design rules under a new name.</description>
 <signals>
 <signal name="V+">
 <contactref element="Q1" pad="1"/>
+<contactref element="J2" pad="1"/>
+<wire x1="37" y1="17.54" x2="35.32" y2="17.54" width="1" layer="1"/>
 <wire x1="31.75" y1="13.97" x2="31.75" y2="10.16" width="1" layer="1"/>
 <wire x1="31.75" y1="10.16" x2="30.48" y2="8.89" width="1" layer="1"/>
 <wire x1="30.48" y1="8.89" x2="27.94" y2="8.89" width="1" layer="1"/>
 <wire x1="35.32" y1="17.54" x2="31.75" y2="13.97" width="1" layer="1"/>
-<contactref element="J2" pad="2"/>
-<wire x1="37" y1="17.54" x2="35.32" y2="17.54" width="1" layer="1"/>
 </signal>
 <signal name="GND">
 <contactref element="C3" pad="-"/>
+<contactref element="J1" pad="1"/>
 <contactref element="IC1" pad="1"/>
 <contactref element="C2" pad="2"/>
 <contactref element="D3" pad="K"/>
 <contactref element="C1" pad="-"/>
+<wire x1="3" y1="12.46" x2="8.269" y2="12.46" width="1" layer="16"/>
 <wire x1="8.269" y1="12.46" x2="10.16" y2="14.351" width="1" layer="16"/>
 <wire x1="15.24" y1="9.84" x2="15.24" y2="12.7" width="1" layer="16"/>
 <wire x1="13.589" y1="14.351" x2="10.16" y2="14.351" width="1" layer="16"/>
 <wire x1="15.24" y1="12.7" x2="13.589" y2="14.351" width="1" layer="16"/>
 <wire x1="27.950634375" y1="2.923009375" x2="27.94" y2="2.921" width="1" layer="16"/>
 <wire x1="17.78" y1="2.921" x2="27.94" y2="2.921" width="1" layer="16"/>
+<wire x1="34.22" y1="15.24" x2="28.1454" y2="15.24" width="1" layer="16"/>
 <wire x1="10.16" y1="3.81" x2="11.048984375" y2="2.921" width="1" layer="16"/>
 <wire x1="11.048984375" y1="2.921" x2="15.24" y2="2.921" width="1" layer="16"/>
 <wire x1="15.24" y1="2.921" x2="17.78" y2="2.921" width="1" layer="16"/>
@@ -1971,22 +1974,20 @@ design rules under a new name.</description>
 <vertex x="44.45" y="31.75"/>
 </polygon>
 <via x="8.89" y="26.67" extent="1-16" drill="0.35"/>
-<contactref element="J2" pad="1"/>
-<contactref element="J1" pad="2"/>
-<wire x1="37" y1="13.8" x2="37" y2="12.46" width="1" layer="16"/>
-<wire x1="28.1454" y1="15.24" x2="35.56" y2="15.24" width="1" layer="16"/>
-<wire x1="35.56" y1="15.24" x2="37" y2="13.8" width="1" layer="16"/>
+<contactref element="J2" pad="2"/>
+<wire x1="37" y1="12.46" x2="34.22" y2="15.24" width="1" layer="16"/>
 <wire x1="27.94" y1="2.921" x2="37" y2="11.981" width="1" layer="16"/>
 <wire x1="37" y1="11.981" x2="37" y2="12.46" width="1" layer="16"/>
-<wire x1="3" y1="12.46" x2="8.269" y2="12.46" width="1" layer="16"/>
 </signal>
 <signal name="VCC">
 <contactref element="C3" pad="+"/>
+<contactref element="J1" pad="2"/>
 <contactref element="IC1" pad="8"/>
 <contactref element="IC1" pad="4"/>
 <contactref element="Q1" pad="3"/>
 <contactref element="R1" pad="2"/>
-<wire x1="10.16" y1="16.129" x2="8.749" y2="17.54" width="1" layer="16"/>
+<wire x1="3" y1="17.54" x2="8.749" y2="17.54" width="1" layer="16"/>
+<wire x1="8.749" y1="17.54" x2="10.16" y2="16.129" width="1" layer="16"/>
 <wire x1="10.16" y1="16.129" x2="14.859" y2="16.129" width="1" layer="16"/>
 <wire x1="14.859" y1="16.129" x2="15.24" y2="16.51" width="1" layer="16"/>
 <wire x1="15.24" y1="16.51" x2="15.24" y2="18.1" width="1" layer="16"/>
@@ -2002,8 +2003,6 @@ design rules under a new name.</description>
 <wire x1="27.8972" y1="6.3072" x2="25.49121875" y2="6.3072" width="1" layer="16"/>
 <wire x1="22.86" y1="8.93841875" x2="22.86" y2="9.84" width="1" layer="16"/>
 <wire x1="15.24" y1="18.1" x2="15.24" y2="20.168" width="1" layer="16"/>
-<contactref element="J1" pad="1"/>
-<wire x1="8.749" y1="17.54" x2="3" y2="17.54" width="1" layer="16"/>
 </signal>
 <signal name="OUT">
 <contactref element="IC1" pad="3"/>
@@ -2028,28 +2027,28 @@ design rules under a new name.</description>
 </signal>
 <signal name="DISCHARGE">
 <contactref element="IC1" pad="7"/>
+<contactref element="J3" pad="2"/>
 <contactref element="R1" pad="1"/>
 <wire x1="17.78" y1="18.1" x2="17.78" y2="24.78" width="1" layer="16"/>
 <wire x1="17.78" y1="24.78" x2="17.78" y2="26.05" width="1" layer="16"/>
+<wire x1="18.73" y1="27" x2="20" y2="27" width="1" layer="16"/>
 <wire x1="18.73" y1="27" x2="17.78" y2="26.05" width="1" layer="16"/>
 <wire x1="15.738" y1="24.78" x2="15.24" y2="24.282" width="1" layer="16"/>
 <wire x1="15.24" y1="23.012" x2="15.24" y2="24.282" width="1" layer="16"/>
 <wire x1="15.738" y1="24.78" x2="17.78" y2="24.78" width="1" layer="16"/>
-<contactref element="J3" pad="2"/>
-<wire x1="20" y1="27" x2="18.73" y2="27" width="1" layer="16"/>
 </signal>
 <signal name="N$1">
+<contactref element="J3" pad="3"/>
 <contactref element="D1" pad="A"/>
 <wire x1="8.89" y1="20.32" x2="11.43" y2="22.86" width="1" layer="1"/>
 <wire x1="11.43" y1="22.86" x2="22.86" y2="22.86" width="1" layer="1"/>
 <wire x1="22.86" y1="22.86" x2="25.08" y2="25.08" width="1" layer="1"/>
-<contactref element="J3" pad="1"/>
 <wire x1="25.08" y1="25.08" x2="25.08" y2="27" width="1" layer="1"/>
 </signal>
 <signal name="N$4">
+<contactref element="J3" pad="1"/>
 <contactref element="D2" pad="C"/>
 <wire x1="12.7" y1="20.32" x2="12.7" y2="24.78" width="1" layer="16"/>
-<contactref element="J3" pad="3"/>
 <wire x1="12.7" y1="24.78" x2="14.92" y2="27" width="1" layer="16"/>
 </signal>
 <signal name="THRESH_TRIG">
