@@ -12,7 +12,7 @@ As previously mentioned the purpose of this PCB was to use existing parts as wel
 
 ![Populated PCB]()
 
-![Veroboard PCB]()
+![Veroboard PCB](docs/Veroboard%20Version.jpg)
 
 # Improvements
 As for design improvements, a lot of improvements can be made:
@@ -28,3 +28,6 @@ The following software packages are required for this project:
 
 # Useful Links
 - [Thingiverse Case](https://www.thingiverse.com/thing:4596800)
+- [JLCPCB](https://jlcpcb.com/)
+- [555 Timers](https://electronicsclub.info/555timer.htm)
+- [Adjustable PWM 555 Timer](https://www.electronicshub.org/555-timer-pwm/)
