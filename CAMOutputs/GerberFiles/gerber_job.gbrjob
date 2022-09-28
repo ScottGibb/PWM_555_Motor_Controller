@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2020-09-14T16:46:51Z",
+        "CreationDate": "2022-09-28T17:06:12Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -15,7 +15,7 @@
         "Name": {
             "ProjectId": "PWMController"
         },
-        "Owner": "Scott Gibb <scott.gibb.2016@uni.strath.ac.uk>",
+        "Owner": "Scott Gibb <scott.gibb.1998@gmail.com>",
         "Size": {
             "X": 40,
             "Y": 30
