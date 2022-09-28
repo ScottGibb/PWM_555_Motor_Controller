@@ -1,14 +1,11 @@
 # PWM_555_Motor_Controller
-Simple PCB containing a 555 timer for PWM control of various small motors.
-
-The design approach taken was to use leftover components from different salvages over the years to see what could be built that might be of use. 
-This ended up being a PWM Controller using a 555 Timer. The CAD model of the PCB is shown below:
+A Simple PCB that contains a 555 timer for PWM control of various small motors. The design approach taken was to use leftover components from different salvages over the years to see what could be built that might be of use. This ended up being a PWM Controller using a 555 Timer. The CAD model of the PCB is shown below:
 
 ![3D Model of PWM Controller](docs/3D%20Model%20of%20PWM%20Fan%20Controller%20PCB.png)
 
 
 # Design
-As previously mentioned the purpose of this PCB was to use existing parts as well as try something new that wasnt microcontroller based. This is why the 555 Timer was used along with a BJT transister. The populated PCB can be seen below along with the veroboard version:
+As previously mentioned, the purpose of this PCB was to use existing parts and try something new that wasn't microcontroller based. This is why the 555 Timer was used along with a BJT transistor. The populated PCB can be seen below along with the Veroboard version:
 
 ![Populated PCB]()
 
@@ -18,8 +15,8 @@ As previously mentioned the purpose of this PCB was to use existing parts as wel
 As for design improvements, a lot of improvements can be made:
 
 - Swap to fully SMT design as this will reduce EMI and create a better layout.
-- Swap BJT for FET as this will reduce current consumption and stop the transister from heating up during PWM cycle.
-- Due to the low current nature of the design, swapping screw terminals for JSTs would be apropriate as this would yield a better looking design. It will also reduce the complexity of parts as 15A rated terminals are not required for this PCB.
+- Swap BJT for FET as this will reduce current consumption and stop the transistor from heating up during the PWM cycle.
+- Due to the low current nature of the design, swapping screw terminals for JSTs would be appropriate as this would yield a better-looking design. It will also reduce the overkill of using 15A-rated terminals for a PCB used to control small motors.
 
 # Software Requirements
 The following software packages are required for this project:
