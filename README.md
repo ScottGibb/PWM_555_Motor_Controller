@@ -7,7 +7,7 @@ A Simple PCB that contains a 555 timer for PWM control of various small motors. 
 # Design
 As previously mentioned, the purpose of this PCB was to use existing parts and try something new that wasn't microcontroller based. This is why the 555 Timer was used along with a BJT transistor. The populated PCB can be seen below along with the Veroboard version:
 
-![Populated PCB]()
+![Populated PCB](docs/PWM%20Controller%20Assembled.jpg)
 
 ![Veroboard PCB](docs/Veroboard%20Version.jpg)
 
